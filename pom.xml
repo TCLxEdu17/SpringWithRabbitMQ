@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.br.TCLxEdu17</groupId>
     <artifactId>orderMs</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>orderMs</name>
     <description>orderMs</description>
     <url/>
